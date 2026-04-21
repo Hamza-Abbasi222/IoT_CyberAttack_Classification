@@ -1,5 +1,4 @@
-# IoT_CyberAttack_Classification
-# 🔐 Classification of Cyber Attacks on IoT Using Machine Learning
+# Classification of Cyber Attacks on IoT Using Machine Learning
 
 > **Master's Thesis Project** — National University of Modern Languages (NUML), Islamabad  
 > **Duration:** September 2022 – January 2024  
